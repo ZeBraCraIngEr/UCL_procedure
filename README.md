@@ -59,16 +59,18 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
 ```
-2. Lancer le programme.
+2. Lancer le programme `Portail d'entreprise`.
 3. Connection de l'utilisateur.
 4. Commencer la configuration de l'accès à L'UCLouvain (fidèle au document).
-   1. Continuer.
-   2. Télécharger le profil.
-   3. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
-   4. Double cliquer sur `Management Profile`.
-   5. Installer.
-   6. Fermer la fenêtre de `Réglages système`.
-5. Activer le chiffrement de l'appareil (alternativement, cliquer sur `Comment résoudre cela`).
+5. Continuer.
+6. Télécharger le profil.
+   1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
+   2. Double cliquer sur `Management Profile`.
+   3. Installer en renseignant les identifiants.
+   4. Fermer la fenêtre de `Réglages système`.
+7.Terminer
+8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
+9. Activer le chiffrement de l'appareil.
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 ```
@@ -89,7 +91,21 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 > Il est possible qu'il faille vérifier plusieurs fois l'État. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
 
 #### Machine UCLouvain
-//TODO
+1. Lancer le programme `Portail d'entreprise`.
+2. Cliquer sur `Commencer`pour configurer l'accès de l'UCLouvain.
+3. Continuer.
+4. Télécharger le profil.
+   1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
+   2. Double cliquer sur `Management Profile`.
+   3. Installer en renseignant les identifiants.
+   4. Fermer la fenêtre de `Réglages système`.
+5. Terminer.
+6. Activer le chiffrement de l'appareil.
+```
+Réglage Système > Confidentialité et sécurité > FileVault > Activer...
+```
+7. Cliquer sur `En savoir plus`, puis `Réessayer`.
+
 
 > [!NOTE]
 > Intstallation du profil de management prend environs 10 minutes
