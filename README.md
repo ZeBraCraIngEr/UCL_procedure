@@ -164,9 +164,9 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 
 
 -----------------
-### Etape 6: END
+### Etape 6: Finalisation
 Félicitations, c'est la fin de la procédure !! :clap::partying_face::tada:
-
+&nbsp;
 [^1]: 
       | Version | 1.0.0                                      |
       |---------|--------------------------------------------|
