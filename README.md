@@ -43,6 +43,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 > [!NOTE]
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
+&nbsp;
 </details>
 
 <details>
@@ -56,6 +57,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 > [!NOTE]
 > La `Suite Office` n'est pas encore disponible.
+&nbsp;
 </details>
 
 -----------------
