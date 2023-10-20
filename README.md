@@ -47,7 +47,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 <details>
 <summary>Machine UCLouvain</summary>
 
-1. Cliquer sur la flèche pour déployer et voir toutes les applications.
+1. Cliquer sur la flèche :arrow_down_small: pour déployer et voir toutes les applications.
 2. Rechercher les mises à jours.
 3. Fermer `Microsoft AutoUpdate`.
 
