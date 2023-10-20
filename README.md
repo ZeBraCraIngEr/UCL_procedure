@@ -34,7 +34,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 4. Fermer `Microsoft AutoUpdate`.
 
 > [!IMPORTANT]
-> Il est possible que certains liens/icones du `Dock` vers les applications de la `Suite Office` ne soient plus cliquables. Il faut les supprimer et les replacer.
+> Il est possible que certains liens/icones du `Dock` vers les applications de la `Suite Office` ne soient plus cliquables. Il faut les supprimer du `Dock` et les replacer.
 
 > [!NOTE]
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
