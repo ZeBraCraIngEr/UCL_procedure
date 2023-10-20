@@ -74,7 +74,7 @@ Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
 6. Télécharger le profil.
    1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
    2. Double cliquer sur `Management Profile`.
-   3. Installer en renseignant les identifiants.
+   3. Installer en renseignant les identifiants machine.
    4. Fermer la fenêtre de `Réglages système`.
 7.Terminer
 8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
@@ -116,7 +116,7 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 4. Télécharger le profil.
    1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
    2. Double cliquer sur `Management Profile`.
-   3. Installer en renseignant les identifiants.
+   3. Installer en renseignant les identifiants machine.
    4. Fermer la fenêtre de `Réglages système`.
 5. Terminer.
 6. Modifier le mot de passe (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
@@ -140,14 +140,19 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 
 -----------------
 ### Etape 4: Centre de gestion des logiciels
+Permettra d'accéder à toutes les applications mises à disposition par l'UCLouvain via l'onglet `Logiciel`.
+
 #### Machine Saint-Louis
 //TODO
 
-#### Machine UCLouvain
+<details>
+<summary>Machine UCLouvain</summary>
+   
 1. Lancer l'application.
 2. Vérification et mise à jour automatique des logiciels.
 3. Cliquer sur `Tout mettre à jour`.
-4. Toute application mise à disposition par l'UCLouvain est maintenant disponible dans la partie `Logiciel`.
+</details>
+
 
 -----------------
 ### Etape 5: Inscrire la machine pour l'UCLouvain
