@@ -50,11 +50,10 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 -----------------
 ### Etape 3: Portail d'entreprise
-
-> [!WARNING]
-> Il est impératif de redémarrer l'ordinateur avant de procéder plus loin.
-
 #### Machine Saint-Louis
+> [!WARNING]
+> Il est impératif de désinstaller le `Centre de gestion de logiciels` et de redémarrer l'ordinateur avant de procéder plus loin.
+
 1. Désactiver le `FileVault`.
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
@@ -117,12 +116,23 @@ Réglage Système > Touch ID et mot de passe > Modifier...
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 ```
 8. Cliquer sur continuer. La création du FileVault se lance.
-7. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
-8. Fermer le programme.
+9. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
+10. Désactiver la collecte des données de Microsoft:
+```
+Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
+```
 
 > [!NOTE]
 > La vérification du status peut prendre jusqu'à 10 minutes.
 
+-----------------
+### Etape 4: Centre de gestion des logiciels
+#### Machine Saint-Louis
+
+#### Machine UCLouvain
+1. Lancer l'application.
+2. Vérification et mise à jour automatique des logiciels.
+3. Cliquer sur `Tout mettre à jour`.
 
 [^1]: [Lien de téléchargement du fichier ][pkginstaller]
 
