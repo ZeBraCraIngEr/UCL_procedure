@@ -5,7 +5,7 @@ Toutes ces étapes se font dans la session utilisateur.
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
-Il est possible de[télécharger le programme directement via ce lien-ci][pkginstaller]
+Il est possible de télécharger le programme directement via [ce lien-ci][pkginstaller]
 
 > **Alternativement**, via une clé USB:
 > 1. Brancher la clé USB contenant l'installateur de Intune.
