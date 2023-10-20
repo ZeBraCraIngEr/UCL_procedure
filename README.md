@@ -27,10 +27,11 @@ Il est possible de télécharger le programme directement via ce lien-ci[^1].
 Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 #### Machine Saint-Louis
-  
-1. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
-2. Tout mettre à jour.
-3. Fermer `Microsoft AutoUpdate`.
+
+1. Cliquer sur la flèche pour déployer et voir toutes les applications.
+2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
+3. Tout mettre à jour.
+4. Fermer `Microsoft AutoUpdate`.
 
 > [!IMPORTANT]
 > Il est possible que certains liens/icones du `Dock` vers les applications de la `Suite Office` ne soient plus cliquables. Il faut les supprimer et les replacer.
