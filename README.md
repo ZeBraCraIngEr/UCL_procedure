@@ -9,12 +9,7 @@ Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
-Télécharger le programme directement via [ce lien-ci][pkginstaller]
-
-> **Alternativement**, via une clé USB:
-> 1. Brancher la clé USB contenant l'installateur de Intune.
-> 2. Transférer `CompanyPortal-Installer.pkg` sur le bureau de la machine.
-> 3. Ejecter la clé USB.
+Télécharger le programme directement via [ce lien-ci][pkginstaller].
 
 > [!WARNING]
 > **Pour les machines `Saint-Louis`** Il est impératif de désinstaller le `Centre de gestion de logiciels` et de redémarrer l'ordinateur avant de procéder plus loin.
@@ -37,7 +32,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 <details>
 <summary>Machine Saint-Louis</summary>
 
-1. Cliquer sur `la flèche ⬇️` pour déployer et voir toutes les applications.
+1. Cliquer sur `la flèche :arrow_down_small:` pour déployer et voir toutes les applications.
 2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
 3. Cliquer sur `Tout mettre à jour`.
 4. Fermer `Microsoft AutoUpdate`.
