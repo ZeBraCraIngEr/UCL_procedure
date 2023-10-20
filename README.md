@@ -12,12 +12,16 @@ Il est possible de télécharger le programme directement via ce lien-ci[^1].
 > 2. Transférer `CompanyPortal-Installer.pkg` sur le bureau de la machine.
 > 3. Ejecter la clé USB.
 
+> [!WARNING]
+> **Pour les machines Saint-Louis** Il est impératif de désinstaller le `Centre de gestion de logiciels` et de redémarrer l'ordinateur avant de procéder plus loin.
+
 **Installation :**
-- Valider la licence.
-- Valider l'accès aux fichiers.
-- Valider les identifiants utilisateur.
+- Accepter la licence.
 - Installer.
-- Supprimer l'installeur.
+- Valider les identifiants utilisateur.
+- Accepter l'accès aux fichiers en cliquant sur `OK`.
+- Fermer
+- Supprimer l'installeur en cliquant `Placer dans la corbeille`.
 
 > [!NOTE]
 > L'installation devrait prendre moins d'une minute.
@@ -51,8 +55,6 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 -----------------
 ### Etape 3: Portail d'entreprise
 #### Machine Saint-Louis
-> [!WARNING]
-> Il est impératif de désinstaller le `Centre de gestion de logiciels` et de redémarrer l'ordinateur avant de procéder plus loin.
 
 1. Désactiver le `FileVault`.
 ```
@@ -133,6 +135,7 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 1. Lancer l'application.
 2. Vérification et mise à jour automatique des logiciels.
 3. Cliquer sur `Tout mettre à jour`.
+4. Toute application mise à disposition par l'UCLouvain est maintenant disponible dans la partie `Logiciel`.
 
 [^1]: [Lien de téléchargement du fichier ][pkginstaller]
 
