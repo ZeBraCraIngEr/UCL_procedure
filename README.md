@@ -1,12 +1,15 @@
 # Installation Intune
+Toutes ces étapes se font dans la session utilisateur.
 
 ### Etape 1: récupérer le programme d'installation
-1. Se connecter à la session `sinfo`.
-2. Brancher la clé USB contenant l'installateur de Intune[^1].
-3. Transférer `CompanyPortal-Installer.pkg` sur le bureau de la machine.
-4. Ejecter la clé USB.
-5. Lancer l'installation.
-6. Suppression du package d'installation.
+Il est possible de télécharger le programme directement via ce lien-ci[^1].
+
+Alternativement, via une clé USB:
+1. Brancher la clé USB contenant l'installateur de Intune[^1].
+2. Transférer `CompanyPortal-Installer.pkg` sur le bureau de la machine.
+3. Ejecter la clé USB.
+
+Une fois l'installation terminée, supprimer le package d'installation.
 
 > [!NOTE]
 > L'installation devrait prendre moins d'une minute.
@@ -28,7 +31,7 @@ Se lance directement après l'installation du portail.
 
 
 ##### Machine UCLouvain
-TODO
+//TODO
 
 
 ### Etape 3: Portail d'entreprise
@@ -38,18 +41,36 @@ A lancer dans la session de l'utilisateur.
 
 ##### Machine Saint-Louis
 1. Désactiver le `FileVault`.
+```
+Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
+```
 2. Lancer le programme.
 3. Connection de l'utilisateur.
 4. Commencer la configuration de l'accès à L'UCLouvain (fidèle au document).
-5. Vérifier le statut dans l'onglet du programme. Cliquer sur les 3 petits points et vérifier le statut.
-6. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer le statut.
-7. Activer le `FileVault`.
+  1. Continuer
+  2. Télécharger le profil
+  3. Cliquer sur la fenêtre de `réglages système` qui s'est ouverte.
+  4. Double cliquer sur `Management Profile`.
+  5. Installer
+
+5. Activer le chiffrement de l'appareil (alternativement, cliquer sur `Comment résoudre cela`).
+```
+Réglage Système > Confidentialité et sécurité > FileVault > Activer...
+```
+
+**Optionnel**
+Dans le cas où l'État de la machine n'est `Conforme`:
+1. Vérifier l'État (alternativement ⌥⌘S)
+   1. Cliquer sur les 3 petits points
+   2. Vérifier l'état
+3. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer le statut.
+
 
 > [!NOTE]
 > Il est possible qu'il faille vérifier plusieurs fois le statut. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
 
 ##### Machine UCLouvain
-TODO
+//TODO
 
 > [!NOTE]
 > Intstallation du profil de management prend environs 10 minutes
