@@ -13,15 +13,15 @@ Il est possible de télécharger le programme directement via ce lien-ci[^1].
 > 3. Ejecter la clé USB.
 
 > [!WARNING]
-> **Pour les machines Saint-Louis** Il est impératif de désinstaller le `Centre de gestion de logiciels` et de redémarrer l'ordinateur avant de procéder plus loin.
+> **Pour les machines `Saint-Louis`** Il est impératif de désinstaller le `Centre de gestion de logiciels` et de redémarrer l'ordinateur avant de procéder plus loin.
 
 **Installation :**
-- Accepter la licence.
-- Installer.
-- Valider les identifiants utilisateur.
-- Accepter l'accès aux fichiers en cliquant sur `OK`.
-- Fermer
-- Supprimer l'installeur en cliquant `Placer dans la corbeille`.
+1. Accepter la licence.
+2. Installer.
+3. Valider les identifiants utilisateur.
+4. Accepter l'accès aux fichiers en cliquant sur `OK`.
+5. Fermer
+6. Supprimer l'installeur en cliquant `Placer dans la corbeille`.
 
 > [!NOTE]
 > L'installation devrait prendre moins d'une minute.
