@@ -18,7 +18,7 @@ Il est possible de télécharger le programme directement via [ce lien-ci][pkgin
 **Installation :**
 1. Accepter la licence.
 2. Installer.
-3. Valider les identifiants utilisateur.
+3. Valider les identifiants utilisateur machine.
 4. Accepter l'accès aux fichiers en cliquant sur `OK`.
 5. Fermer
 6. Supprimer l'installeur en cliquant `Placer dans la corbeille`.
@@ -33,9 +33,9 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 <details>
 <summary>Machine Saint-Louis</summary>
 
-1. Cliquer sur la flèche pour déployer et voir toutes les applications.
+1. Cliquer sur `la flèche ⬇️` pour déployer et voir toutes les applications.
 2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
-3. Tout mettre à jour.
+3. Cliquer sur `Tout mettre à jour`.
 4. Fermer `Microsoft AutoUpdate`.
 
 > [!IMPORTANT]
@@ -109,6 +109,7 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 
 <details>
 <summary>Machine UCLouvain</summary>
+   
 1. Lancer le programme `Portail d'entreprise`.
 2. Cliquer sur `Commencer`pour configurer l'accès de l'UCLouvain.
 3. Continuer.
