@@ -10,7 +10,7 @@ Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain
 > [!WARNING]
 > Ce follow through est **uniquement destiné** aux membres du personnel de l'[UCLouvain][uclouvain] possèdant un Macbook.
 > 
-> This follow through process **only addresses to** [UCLouvain][uclouvain] members that own a Macbook.
+> :uk: This follow through process **only addresses to** [UCLouvain][uclouvain] members that own a Macbook.
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
