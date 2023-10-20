@@ -1,11 +1,11 @@
-# Installation Intune
+# Installation Intune[^1]
 Toutes ces étapes se font dans la session utilisateur.
 > [!NOTE]
 > Temps estimé pour l'ensemble de la procédure: 20 minutes.
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
-Il est possible de télécharger le programme directement via ce lien-ci[^1].
+Il est possible de télécharger le programme directement via ce lien-ci[^2].
 
 > **Alternativement**, via une clé USB:
 > 1. Brancher la clé USB contenant l'installateur de Intune.
@@ -139,13 +139,12 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 3. Cliquer sur `Tout mettre à jour`.
 4. Toute application mise à disposition par l'UCLouvain est maintenant disponible dans la partie `Logiciel`.
 
-[^1]: [Lien de téléchargement du fichier ][pkginstaller]
+[^1]: | Version | 1.0.0                                      |
+      |---------|--------------------------------------------|
+      | Date    | 20/10/2023                                 |
+      | Author  | Cyril Bousmar (cyril.bousmar@uclouvain.be) |
 
-# Metadata
-| Version | 1.0.0                                      |
-|---------|--------------------------------------------|
-| Date    | 20/10/2023                                 |
-| Author  | Cyril Bousmar (cyril.bousmar@uclouvain.be) |
+[^2]: [Lien de téléchargement du fichier ][pkginstaller]
 
 [//]:#
 [pkginstaller]: <https://go.microsoft.com/fwlink/?linkid=853070>
