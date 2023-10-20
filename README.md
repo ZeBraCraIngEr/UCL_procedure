@@ -14,7 +14,8 @@
 ### Etape 2: Microsoft AutoUpdate
 Se lance directement après l'installation du portail.
 <details>
-<summary>##### Machine Saint-Louis</summary>
+<summary>Machine Saint-Louis</summary>
+  
 1. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
 2. Tout mettre à jour.
 3. Fermer `Microsoft AutoUpdate`.
