@@ -52,7 +52,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 ### Etape 3: Portail d'entreprise
 
 > [!WARNING]
-> Il est impératif de redémarrer l'ordinateur avant de procéder aux étapes suivantes.
+> Il est impératif de redémarrer l'ordinateur avant de procéder plus loin.
 
 #### Machine Saint-Louis
 1. Désactiver le `FileVault`.
