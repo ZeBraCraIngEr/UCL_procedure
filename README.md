@@ -130,6 +130,8 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 -----------------
 ### Etape 4: Centre de gestion des logiciels
 #### Machine Saint-Louis
+1. Lancer l'application `Munki UCLouvain Form`.
+2. 
 
 #### Machine UCLouvain
 1. Lancer l'application.
