@@ -62,15 +62,15 @@ Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 ```
 
 **Optionnel**
-Dans le cas où l'État de la machine n'est `Conforme`:
+Dans le cas où l'État de la machine n'est pas `Conforme`:
 1. Vérifier l'État (alternativement `⌥⌘S`).
    1. Cliquer sur les 3 petits points.
    2. Vérifier l'état.
-3. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer le statut.
+3. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
 
 
 > [!NOTE]
-> Il est possible qu'il faille vérifier plusieurs fois le statut. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
+> Il est possible qu'il faille vérifier plusieurs fois l'État. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
 
 ##### Machine UCLouvain
 //TODO
