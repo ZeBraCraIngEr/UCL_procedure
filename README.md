@@ -7,13 +7,17 @@ Toutes ces étapes se font dans la session utilisateur.
 ### Etape 1: récupérer et installer le programme d'installation
 Il est possible de télécharger le programme directement via ce lien-ci[^1].
 
-Alternativement, via une clé USB:
-1. Brancher la clé USB contenant l'installateur de Intune.
-2. Transférer `CompanyPortal-Installer.pkg` sur le bureau de la machine.
-3. Ejecter la clé USB.
+> Alternativement, via une clé USB:
+> 1. Brancher la clé USB contenant l'installateur de Intune.
+> 2. Transférer `CompanyPortal-Installer.pkg` sur le bureau de la machine.
+> 3. Ejecter la clé USB.
 
-Pour installer, valider la licence, valider l'accès au fichiers, valider les identifiants et installer.
-Une fois l'installation terminée, supprimer le package d'installation.
+**Installation :**
+- Valider la licence.
+- Valider l'accès aux fichiers.
+- Valider les identifiants utilisateur.
+- Intstaller.
+- Supprimer l'installeur.
 
 > [!NOTE]
 > L'installation devrait prendre moins d'une minute.
