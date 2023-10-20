@@ -5,7 +5,7 @@
 Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain. Elle se fait entièrement dans la session utilisateur.
 
 > [!NOTE]
-> Temps estimé pour l'ensemble de la procédure: 20 minutes. Nous recommandons de vous préparer un petit :coffee:.
+> Temps estimé pour l'ensemble de la procédure: 20 minutes. Nous recommandons de vous préparer un petit café ou thé :coffee::tea:.
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
@@ -163,6 +163,9 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 1. Lancer `Munki UCLouvain From`.
 
 
+-----------------
+### Etape 6: END
+Félicitations, c'est la fin de la procédure !! :clap::partying_face::tada:
 
 [^1]: 
       | Version | 1.0.0                                      |
