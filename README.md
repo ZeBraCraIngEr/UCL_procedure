@@ -13,8 +13,8 @@
 
 ### Etape 2: Microsoft AutoUpdate
 Se lance directement après l'installation du portail.
-<details>
-<summary>Machine Saint-Louis</summary>
+
+##### Machine Saint-Louis
   
 1. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
 2. Tout mettre à jour.
@@ -25,7 +25,7 @@ Se lance directement après l'installation du portail.
 
 > [!NOTE]
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
-</details>
+
 
 ##### Machine UCLouvain
 TODO
