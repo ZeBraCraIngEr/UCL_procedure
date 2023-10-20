@@ -79,18 +79,19 @@ Gestion de la machine, sécurité et cryptage des données.
 7.Terminer
 8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
 9. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
-   > Réglage Système > Touch ID et mot de passe > Modifier...
-
-10. Activer le chiffrement de l'appareil en suivant:
-```
-Réglage Système > Confidentialité et sécurité > FileVault > Activer...
-```
+   ```
+   Réglage Système > Touch ID et mot de passe > Modifier...
+   ```
+11. Activer le chiffrement de l'appareil en suivant:
+   ```
+   Réglage Système > Confidentialité et sécurité > FileVault > Activer...
+   ```
 11. Cliquer sur `continuer`. La création du FileVault se lance.
 11. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
 12. Désactiver la collecte des données de Microsoft en suivant:
-```
-Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
-```
+   ```
+   Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
+   ```
 
 > **Optionnel**
 > Dans le cas où l'État de la machine n'est pas `Conforme`:
@@ -119,19 +120,19 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
    4. Fermer la fenêtre de `Réglages système`.
 5. Terminer.
 6. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
-```
-Réglage Système > Touch ID et mot de passe > Modifier...
-```
+   ```
+   Réglage Système > Touch ID et mot de passe > Modifier...
+   ```
 7. Activer le chiffrement de l'appareil.
-```
-Réglage Système > Confidentialité et sécurité > FileVault > Activer...
-```
+   ```
+   Réglage Système > Confidentialité et sécurité > FileVault > Activer...
+   ```
 8. Cliquer sur continuer. La création du FileVault se lance.
 9. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
 10. Désactiver la collecte des données de Microsoft:
-```
-Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
-```
+   ```
+   Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
+   ```
 
 > [!NOTE]
 > La vérification du status peut prendre jusqu'à 10 minutes.
