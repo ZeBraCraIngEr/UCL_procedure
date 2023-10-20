@@ -19,7 +19,7 @@ Télécharger le programme directement via [ce lien-ci][pkginstaller].
 2. Cliquer sur `Installer`.
 3. Valider les identifiants utilisateur machine :computer:.
 4. Accepter l'accès aux fichiers en cliquant sur `OK`.
-5. Fermer
+5. Cliquer sur `Fermer`.
 6. Supprimer l'installeur en cliquant `Placer dans la corbeille`.
 
 > [!NOTE]
