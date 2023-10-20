@@ -17,7 +17,7 @@ Télécharger le programme directement via [ce lien-ci][pkginstaller].
 **Installation :**
 1. Accepter la licence.
 2. Cliquer sur `Installer`.
-3. Valider les identifiants utilisateur machine.
+3. Valider les identifiants utilisateur machine :computer:.
 4. Accepter l'accès aux fichiers en cliquant sur `OK`.
 5. Fermer
 6. Supprimer l'installeur en cliquant `Placer dans la corbeille`.
@@ -68,7 +68,7 @@ Gestion de la machine, sécurité et cryptage des données.
 Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
 ```
 2. Lancer le programme `Portail d'entreprise`.
-3. Connection de l'utilisateur avec les identifiants UCLouvain.
+3. Connection de l'utilisateur avec les identifiants UCLouvain :bust_in_silhouette:.
 4. Commencer la configuration de l'accès à L'UCLouvain.
 5. Continuer.
 6. Cliquer sur `Télécharger le profil`.
@@ -78,7 +78,7 @@ Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
    4. Fermer la fenêtre de `Réglages système`.
 7.Terminer
 8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
-9. Modifier le mot de passe (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
+9. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
 ```
 Réglage Système > Touch ID et mot de passe > Modifier...
 ```
@@ -119,7 +119,7 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
    3. Installer en renseignant les identifiants machine.
    4. Fermer la fenêtre de `Réglages système`.
 5. Terminer.
-6. Modifier le mot de passe (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
+6. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
 ```
 Réglage Système > Touch ID et mot de passe > Modifier...
 ```
