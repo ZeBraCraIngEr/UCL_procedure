@@ -16,7 +16,7 @@ Il est possible de télécharger le programme directement via ce lien-ci[^1].
 - Valider la licence.
 - Valider l'accès aux fichiers.
 - Valider les identifiants utilisateur.
-- Intstaller.
+- Installer.
 - Supprimer l'installeur.
 
 > [!NOTE]
