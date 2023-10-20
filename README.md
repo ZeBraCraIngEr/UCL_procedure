@@ -153,10 +153,10 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 <details>
 <summary>Machine UCLouvain</summary>
    
-1. Lancer l'application.
-2. Vérification et mise à jour automatique des logiciels.
+1. Lancer l'application `Centre de gestion des logiciels`.
+2. Vérification des mises à jour automatique des logiciels.
 3. Cliquer sur `Tout mettre à jour`.
-4. Quitter l'application.
+4. Quitter l'application`Centre de gestion des logiciels`.
 </details>
 
 
