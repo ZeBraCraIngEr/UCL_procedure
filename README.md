@@ -64,9 +64,9 @@ Gestion de la machine, sécurité et cryptage des données.
 <summary>Machine Saint-Louis</summary>
 
 1. Désactiver le `FileVault` en suivant:
-```
-Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
-```
+   ```
+   Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
+   ```
 2. Lancer le programme `Portail d'entreprise`.
 3. Connection de l'utilisateur avec les identifiants UCLouvain :bust_in_silhouette:.
 4. Commencer la configuration de l'accès à L'UCLouvain.
