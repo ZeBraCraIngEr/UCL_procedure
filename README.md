@@ -1,4 +1,6 @@
 # Installation Intune[^1]
+![UCLouvain logo](https://cdn.uclouvain.be/groups/cms-editors-arec/charte-graphique-uclouvain/UCLouvain_Logo_Pos_CMJN.png?itok=0Vz8FOqj)
+
 Toutes ces étapes se font dans la session utilisateur.
 > [!NOTE]
 > Temps estimé pour l'ensemble de la procédure: 20 minutes. Nous recommandons de vous préparer un petit :coffee:.
