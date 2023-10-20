@@ -8,7 +8,8 @@ Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain
 > :hourglass_flowing_sand: Temps estimé pour l'ensemble de la procédure: 20 minutes. Nous recommandons de vous préparer un petit café :coffee: ou thé :tea:.
 
 > [!WARNING]
-> Ce follow through est uniquement destiné aux membres du personnel de l'[UCLouvain][uclouvain] possèdant un Macbook.
+> Ce follow through est **uniquement destiné** aux membres du personnel de l'[UCLouvain][uclouvain] possèdant un Macbook.
+> This follow through process **only addresses to** [UCLouvain][uclouvain] members that own a Macbook.
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
