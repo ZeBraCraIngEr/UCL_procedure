@@ -53,9 +53,10 @@ Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
 4. Commencer la configuration de l'accès à L'UCLouvain (fidèle au document).
    1. Continuer.
    2. Télécharger le profil.
-   3. Cliquer sur la fenêtre de `réglages système` qui s'est ouverte.
+   3. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
    4. Double cliquer sur `Management Profile`.
    5. Installer.
+   6. Fermer la fenêtre de `Réglages système`.
 5. Activer le chiffrement de l'appareil (alternativement, cliquer sur `Comment résoudre cela`).
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
