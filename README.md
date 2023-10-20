@@ -23,7 +23,7 @@ Télécharger le programme directement via [ce lien-ci][pkginstaller].
 6. Supprimer l'installeur en cliquant `Placer dans la corbeille`.
 
 > [!NOTE]
-> L'installation devrait prendre moins d'une minute :hourglass_flowing_sand:.
+> :hourglass_flowing_sand: L'installation devrait prendre moins d'une minute.
 
 -----------------
 ### Etape 2: Microsoft AutoUpdate
@@ -41,7 +41,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 > Il est possible que certains liens/icones du `Dock` vers les applications de la `Suite Office` ne soient plus cliquables. Il faut les supprimer du `Dock` et les replacer.
 
 > [!NOTE]
-> La mise à jour prend environ deux minutes :hourglass_flowing_sand: pour l'entièreté de la `Suite Office`.
+> :hourglass_flowing_sand: La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
 </details>
 
 <details>
@@ -105,7 +105,7 @@ Gestion de la machine, sécurité et cryptage des données.
 > Il est possible qu'il faille vérifier plusieurs fois l'État. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
 
 > [!NOTE]
-> Intstallation du profil de management peut prendre jusqu'à 10 minutes :hourglass_flowing_sand:. De même que la vérification de l'État.
+> :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
 </details>
 
 <details>
@@ -137,7 +137,7 @@ Gestion de la machine, sécurité et cryptage des données.
 11. Quitter l'application `Portail d'entreprise`.
 
 > [!NOTE]
-> La vérification du status peut prendre jusqu'à 10 minutes :hourglass_flowing_sand:.
+> :hourglass_flowing_sand: La vérification du status peut prendre jusqu'à 10 minutes.
 </details>
 
 -----------------
