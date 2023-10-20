@@ -3,7 +3,7 @@ Toutes ces étapes se font dans la session utilisateur.
 > [!NOTE]
 > Temps estimé de la procédure: 20 minutes.
 
-
+-----------------
 ### Etape 1: récupérer le programme d'installation
 Il est possible de télécharger le programme directement via ce lien-ci[^1].
 
@@ -17,7 +17,7 @@ Une fois l'installation terminée, supprimer le package d'installation.
 > [!NOTE]
 > L'installation devrait prendre moins d'une minute.
 
-
+-----------------
 ### Etape 2: Microsoft AutoUpdate
 Se lance directement après l'installation du portail.
 
@@ -37,7 +37,7 @@ Se lance directement après l'installation du portail.
 ##### Machine UCLouvain
 //TODO
 
-
+-----------------
 ### Etape 3: Portail d'entreprise
 
 > [!WARNING]
@@ -65,8 +65,8 @@ Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 > **Optionnel**
 > Dans le cas où l'État de la machine n'est pas `Conforme`:
 > 1. Vérifier l'État (alternativement `⌥⌘S`).
->   1. Cliquer sur les 3 petits points.
->   2. Vérifier l'état.
+>    1. Cliquer sur les 3 petits points.
+>    2. Vérifier l'état.
 > 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
 
 
