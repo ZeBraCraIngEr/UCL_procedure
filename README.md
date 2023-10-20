@@ -37,7 +37,7 @@ Se lance directement après l'installation du portail.
 
 
 ### Etape 3: Portail d'entreprise
-A lancer dans la session de l'utilisateur.
+
 > [!WARNING]
 > Il est impératif de redémarrer l'ordinateur avant de procéder aux étapes suivantes.
 
