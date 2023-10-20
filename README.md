@@ -1,10 +1,10 @@
 # Installation Intune
 Toutes ces étapes se font dans la session utilisateur.
 > [!NOTE]
-> Temps estimé de la procédure: 20 minutes.
+> Temps estimé pour l'ensemble de la procédure: 20 minutes.
 
 -----------------
-### Etape 1: récupérer le programme d'installation
+### Etape 1: récupérer et installer le programme d'installation
 Il est possible de télécharger le programme directement via ce lien-ci[^1].
 
 Alternativement, via une clé USB:
@@ -12,6 +12,7 @@ Alternativement, via une clé USB:
 2. Transférer `CompanyPortal-Installer.pkg` sur le bureau de la machine.
 3. Ejecter la clé USB.
 
+Pour installer, valider la licence, valider l'accès au fichiers, valider les identifiants et installer.
 Une fois l'installation terminée, supprimer le package d'installation.
 
 > [!NOTE]
@@ -60,6 +61,10 @@ Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
 5. Activer le chiffrement de l'appareil (alternativement, cliquer sur `Comment résoudre cela`).
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
+```
+6. Désactiver la collecte des données de Microsoft:
+```
+Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
 ```
 
 > **Optionnel**
