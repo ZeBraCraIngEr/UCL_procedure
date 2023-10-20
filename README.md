@@ -9,7 +9,7 @@ Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
-Il est possible de télécharger le programme directement via [ce lien-ci][pkginstaller]
+Télécharger le programme directement via [ce lien-ci][pkginstaller]
 
 > **Alternativement**, via une clé USB:
 > 1. Brancher la clé USB contenant l'installateur de Intune.
