@@ -20,9 +20,9 @@ Une fois l'installation terminée, supprimer le package d'installation.
 
 -----------------
 ### Etape 2: Microsoft AutoUpdate
-Se lance directement après l'installation du portail.
+Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
-##### Machine Saint-Louis
+#### Machine Saint-Louis
   
 1. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
 2. Tout mettre à jour.
@@ -35,8 +35,13 @@ Se lance directement après l'installation du portail.
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
 
 
-##### Machine UCLouvain
-//TODO
+#### Machine UCLouvain
+1. Cliquer sur la flèche pour déployer et voir toutes les applications.
+2. Rechercher les mises à jours.
+3. Fermer `Microsoft AutoUpdate`.
+
+> [!NOTE]
+> La `Suite Office` n'est pas encore disponible.
 
 -----------------
 ### Etape 3: Portail d'entreprise
@@ -44,7 +49,7 @@ Se lance directement après l'installation du portail.
 > [!WARNING]
 > Il est impératif de redémarrer l'ordinateur avant de procéder aux étapes suivantes.
 
-##### Machine Saint-Louis
+#### Machine Saint-Louis
 1. Désactiver le `FileVault`.
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
@@ -78,7 +83,7 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 > [!NOTE]
 > Il est possible qu'il faille vérifier plusieurs fois l'État. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
 
-##### Machine UCLouvain
+#### Machine UCLouvain
 //TODO
 
 > [!NOTE]
