@@ -62,12 +62,12 @@ Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 ```
 
-**Optionnel**
-Dans le cas où l'État de la machine n'est pas `Conforme`:
-1. Vérifier l'État (alternativement `⌥⌘S`).
-   1. Cliquer sur les 3 petits points.
-   2. Vérifier l'état.
-3. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
+> **Optionnel**
+> Dans le cas où l'État de la machine n'est pas `Conforme`:
+> 1. Vérifier l'État (alternativement `⌥⌘S`).
+>   1. Cliquer sur les 3 petits points.
+>   2. Vérifier l'état.
+> 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
 
 
 > [!NOTE]
