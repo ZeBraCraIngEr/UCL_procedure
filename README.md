@@ -5,7 +5,7 @@
 Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain. Elle se fait entièrement dans la session utilisateur.
 
 > [!NOTE]
-> Temps estimé pour l'ensemble de la procédure: 20 minutes. Nous recommandons de vous préparer un petit café ou thé :coffee::tea:.
+> Temps estimé pour l'ensemble de la procédure: 20 minutes. Nous recommandons de vous préparer un petit café :coffee: ou thé :tea:.
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
