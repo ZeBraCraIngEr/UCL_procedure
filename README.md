@@ -31,9 +31,7 @@ Il est possible de télécharger le programme directement via ce lien-ci[^2].
 Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 <details>
-<summary>
-**Machine Saint-Louis**
-</summary>
+<summary>Machine Saint-Louis</summary>
 
 1. Cliquer sur la flèche pour déployer et voir toutes les applications.
 2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
@@ -48,7 +46,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 </details>
 
 <details>
-<summary>**Machine UCLouvain**</summary>
+<summary>Machine UCLouvain</summary>
 
 1. Cliquer sur la flèche pour déployer et voir toutes les applications.
 2. Rechercher les mises à jours.
@@ -60,7 +58,10 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 -----------------
 ### Etape 3: Portail d'entreprise
-#### Machine Saint-Louis
+Gestion de la machine, sécurité et cryptage des données.
+
+<details>
+<summary>Machine Saint-Louis</summary>
 
 1. Désactiver le `FileVault`.
 ```
@@ -104,8 +105,10 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 
 > [!NOTE]
 > Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
+</details>
 
-#### Machine UCLouvain
+<details>
+<summary>Machine UCLouvain</summary>
 1. Lancer le programme `Portail d'entreprise`.
 2. Cliquer sur `Commencer`pour configurer l'accès de l'UCLouvain.
 3. Continuer.
@@ -132,6 +135,7 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 
 > [!NOTE]
 > La vérification du status peut prendre jusqu'à 10 minutes.
+</details>
 
 -----------------
 ### Etape 4: Centre de gestion des logiciels
