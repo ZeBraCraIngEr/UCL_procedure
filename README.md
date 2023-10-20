@@ -5,7 +5,7 @@ Toutes ces étapes se font dans la session utilisateur.
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
-Il est possible de télécharger le programme directement via ce lien-ci[^2].
+Il est possible de[télécharger le programme directement via ce lien-ci][pkginstaller]
 
 > **Alternativement**, via une clé USB:
 > 1. Brancher la clé USB contenant l'installateur de Intune.
@@ -155,12 +155,11 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 
 
 
-[^1]: | Version | 1.0.0                                      |
+[^1]: 
+      | Version | 1.0.0                                      |
       |---------|--------------------------------------------|
       | Date    | 20/10/2023                                 |
       | Author  | Cyril Bousmar (cyril.bousmar@uclouvain.be) |
-
-[^2]: [Lien de téléchargement du fichier ][pkginstaller]
 
 [//]:#
 [pkginstaller]: <https://go.microsoft.com/fwlink/?linkid=853070>
