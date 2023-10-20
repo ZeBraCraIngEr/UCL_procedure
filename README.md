@@ -130,14 +130,20 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 -----------------
 ### Etape 4: Centre de gestion des logiciels
 #### Machine Saint-Louis
-1. Lancer l'application `Munki UCLouvain Form`.
-2. 
+//TODO
 
 #### Machine UCLouvain
 1. Lancer l'application.
 2. Vérification et mise à jour automatique des logiciels.
 3. Cliquer sur `Tout mettre à jour`.
 4. Toute application mise à disposition par l'UCLouvain est maintenant disponible dans la partie `Logiciel`.
+
+-----------------
+### Etape 5: Inscrire la machine pour l'UCLouvain
+
+1. Lancer `Munki UCLouvain From`.
+
+
 
 [^1]: | Version | 1.0.0                                      |
       |---------|--------------------------------------------|
