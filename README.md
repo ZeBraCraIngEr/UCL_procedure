@@ -1,4 +1,5 @@
 # Installation Intune
+
 ### Etape 1: récupérer le programme d'installation
 1. Se connecter à la session `sinfo`.
 2. Brancher la clé USB contenant l'installateur de Intune[^1].
@@ -12,7 +13,8 @@
 
 ### Etape 2: Microsoft AutoUpdate
 Se lance directement après l'installation du portail.
-##### Machine Saint-Louis
+<details>
+<summary>##### Machine Saint-Louis</summary>
 1. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
 2. Tout mettre à jour.
 3. Fermer `Microsoft AutoUpdate`.
@@ -22,6 +24,7 @@ Se lance directement après l'installation du portail.
 
 > [!NOTE]
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
+</details>
 
 ##### Machine UCLouvain
 TODO
