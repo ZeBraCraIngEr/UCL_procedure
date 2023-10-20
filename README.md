@@ -16,7 +16,7 @@ Télécharger le programme directement via [ce lien-ci][pkginstaller].
 
 **Installation :**
 1. Accepter la licence.
-2. Installer.
+2. Cliquer sur `Installer`.
 3. Valider les identifiants utilisateur machine.
 4. Accepter l'accès aux fichiers en cliquant sur `OK`.
 5. Fermer
@@ -49,7 +49,8 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 1. Cliquer sur la flèche :arrow_down_small: pour déployer et voir toutes les applications.
 2. Rechercher les mises à jours.
-3. Fermer `Microsoft AutoUpdate`.
+3. Cliquer sur `Tout mettre à jour`.
+4. Fermer `Microsoft AutoUpdate`.
 
 > [!NOTE]
 > La `Suite Office` n'est pas encore disponible.
@@ -62,32 +63,32 @@ Gestion de la machine, sécurité et cryptage des données.
 <details>
 <summary>Machine Saint-Louis</summary>
 
-1. Désactiver le `FileVault`.
+1. Désactiver le `FileVault` en suivant:
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
 ```
 2. Lancer le programme `Portail d'entreprise`.
-3. Connection de l'utilisateur.
-4. Commencer la configuration de l'accès à L'UCLouvain (fidèle au document).
+3. Connection de l'utilisateur avec les identifiants UCLouvain.
+4. Commencer la configuration de l'accès à L'UCLouvain.
 5. Continuer.
-6. Télécharger le profil.
+6. Cliquer sur `Télécharger le profil`.
    1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
    2. Double cliquer sur `Management Profile`.
    3. Installer en renseignant les identifiants machine.
    4. Fermer la fenêtre de `Réglages système`.
 7.Terminer
 8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
-9. Modifier le mot de passe (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
+9. Modifier le mot de passe (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
 ```
 Réglage Système > Touch ID et mot de passe > Modifier...
 ```
-10. Activer le chiffrement de l'appareil.
+10. Activer le chiffrement de l'appareil en suivant:
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 ```
-11. Cliquer sur continuer. La création du FileVault se lance.
+11. Cliquer sur `continuer`. La création du FileVault se lance.
 11. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
-12. Désactiver la collecte des données de Microsoft:
+12. Désactiver la collecte des données de Microsoft en suivant:
 ```
 Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
 ```
@@ -112,7 +113,7 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 1. Lancer le programme `Portail d'entreprise`.
 2. Cliquer sur `Commencer`pour configurer l'accès de l'UCLouvain.
 3. Continuer.
-4. Télécharger le profil.
+4. Cliquer sur `Télécharger le profil`.
    1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
    2. Double cliquer sur `Management Profile`.
    3. Installer en renseignant les identifiants machine.
@@ -141,8 +142,11 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 ### Etape 4: Centre de gestion des logiciels
 Permettra d'accéder à toutes les applications mises à disposition par l'UCLouvain via l'onglet `Logiciel`.
 
-#### Machine Saint-Louis
-//TODO
+<details>
+<summary>Machine Saint-Louis</summary>
+
+- [] TODO
+</details>
 
 <details>
 <summary>Machine UCLouvain</summary>
