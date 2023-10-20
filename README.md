@@ -145,7 +145,7 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 <details>
 <summary>Machine Saint-Louis</summary>
 
-- [] TODO
+- [ ] TODO
 </details>
 
 <details>
