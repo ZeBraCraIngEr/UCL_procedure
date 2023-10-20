@@ -1,5 +1,7 @@
 # Installation Intune
 Toutes ces étapes se font dans la session utilisateur.
+> [!NOTE]
+> Temps estimé de la procédure: 20 minutes.
 
 ### Etape 1: récupérer le programme d'installation
 Il est possible de télécharger le programme directement via ce lien-ci[^1].
