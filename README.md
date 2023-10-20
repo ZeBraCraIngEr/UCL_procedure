@@ -70,11 +70,17 @@ Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
    4. Fermer la fenêtre de `Réglages système`.
 7.Terminer
 8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
-9. Activer le chiffrement de l'appareil.
+9. Modifier le mot de passe (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
+```
+Réglage Système > Touch ID et mot de passe > Modifier...
+```
+10. Activer le chiffrement de l'appareil.
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 ```
-6. Désactiver la collecte des données de Microsoft:
+11. Cliquer sur continuer. La création du FileVault se lance.
+11. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
+12. Désactiver la collecte des données de Microsoft:
 ```
 Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
 ```
@@ -86,9 +92,11 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
 >    2. Vérifier l'état.
 > 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
 
-
 > [!NOTE]
 > Il est possible qu'il faille vérifier plusieurs fois l'État. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
+
+> [!NOTE]
+> Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
 
 #### Machine UCLouvain
 1. Lancer le programme `Portail d'entreprise`.
@@ -100,16 +108,20 @@ Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collect
    3. Installer en renseignant les identifiants.
    4. Fermer la fenêtre de `Réglages système`.
 5. Terminer.
-6. Activer le chiffrement de l'appareil.
+6. Modifier le mot de passe (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
+```
+Réglage Système > Touch ID et mot de passe > Modifier...
+```
+7. Activer le chiffrement de l'appareil.
 ```
 Réglage Système > Confidentialité et sécurité > FileVault > Activer...
 ```
-7. Cliquer sur `En savoir plus`, puis `Réessayer`.
-
+8. Cliquer sur continuer. La création du FileVault se lance.
+7. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
+8. Fermer le programme.
 
 > [!NOTE]
-> Intstallation du profil de management prend environs 10 minutes
-> La vérification du status prend également 10 minutes.
+> La vérification du status peut prendre jusqu'à 10 minutes.
 
 
 [^1]: [Lien de téléchargement du fichier ][pkginstaller]
