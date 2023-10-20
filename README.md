@@ -82,16 +82,17 @@ Gestion de la machine, sécurité et cryptage des données.
    ```
    Réglage Système > Touch ID et mot de passe > Modifier...
    ```
-11. Activer le chiffrement de l'appareil en suivant:
+10. Activer le chiffrement de l'appareil en suivant:
    ```
    Réglage Système > Confidentialité et sécurité > FileVault > Activer...
    ```
 11. Cliquer sur `continuer`. La création du FileVault se lance.
-11. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
-12. Désactiver la collecte des données de Microsoft en suivant:
+12. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
+13. Désactiver la collecte des données de Microsoft en suivant:
    ```
    Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
    ```
+14. Quitter l'application.
 
 > **Optionnel**
 > Dans le cas où l'État de la machine n'est pas `Conforme`:
@@ -110,7 +111,7 @@ Gestion de la machine, sécurité et cryptage des données.
 <details>
 <summary>Machine UCLouvain</summary>
    
-1. Lancer le programme `Portail d'entreprise`.
+1. Lancer l'application `Portail d'entreprise`.
 2. Cliquer sur `Commencer`pour configurer l'accès de l'UCLouvain.
 3. Continuer.
 4. Cliquer sur `Télécharger le profil`.
@@ -133,6 +134,7 @@ Gestion de la machine, sécurité et cryptage des données.
    ```
    Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
    ```
+11. Quitter l'application.
 
 > [!NOTE]
 > La vérification du status peut prendre jusqu'à 10 minutes :hourglass_flowing_sand:.
@@ -154,6 +156,7 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 1. Lancer l'application.
 2. Vérification et mise à jour automatique des logiciels.
 3. Cliquer sur `Tout mettre à jour`.
+4. Quitter l'application.
 </details>
 
 
