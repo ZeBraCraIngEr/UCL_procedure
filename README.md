@@ -17,10 +17,10 @@ Se lance directement après l'installation du portail.
 2. Tout mettre à jour.
 3. Fermer `Microsoft AutoUpdate`.
 
-> ⚠️ IMPORTANT ⚠️
+> [!IMPORTANT]
 > Il est possible que certains liens/icones du `Dock` vers les applications de la `Suite Office` ne soient plus cliquables. Il faut les supprimer et les replacer.
 
-> ℹ️ NOTE ℹ️
+> [!NOTE]
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
 
 ##### Machine UCLouvain
@@ -29,7 +29,7 @@ TODO
 
 ### Etape 3: Portail d'entreprise
 A lancer dans la session de l'utilisateur.
-> ‼️ ATTENTION ‼️
+> [!ATTENTION]
 > Il est impératif de redémarrer l'ordinateur avant de procéder aux étapes suivantes.
 
 ##### Machine Saint-Louis
@@ -41,13 +41,13 @@ A lancer dans la session de l'utilisateur.
 6. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer le statut.
 7. Activer le `FileVault`.
 
-> ℹ️ NOTE ℹ️
+> [!NOTE]
 > Il est possible qu'il faille vérifier plusieurs fois le statut. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
 
 ##### Machine UCLouvain
 TODO
 
-> ℹ️ NOTE ℹ️
+> [!NOTE]
 > Intstallation du profil de management prend environs 10 minutes
 > La vérification du status prend également 10 minutes.
 
