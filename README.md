@@ -29,7 +29,7 @@ TODO
 
 ### Etape 3: Portail d'entreprise
 A lancer dans la session de l'utilisateur.
-> [!ATTENTION]
+> [!WARNING]
 > Il est impératif de redémarrer l'ordinateur avant de procéder aux étapes suivantes.
 
 ##### Machine Saint-Louis
