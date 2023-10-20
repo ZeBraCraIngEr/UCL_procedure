@@ -32,7 +32,6 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 <details>
 <summary>Machine Saint-Louis</summary>
 
-&nbsp;
 1. Cliquer sur la flèche :arrow_down_small: pour déployer et voir toutes les applications.
 2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
 3. Cliquer sur `Tout mettre à jour`.
@@ -43,13 +42,11 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 > [!NOTE]
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
-&nbsp;
 </details>
 
 <details>
 <summary>Machine UCLouvain</summary>
 
-&nbsp;
 1. Cliquer sur la flèche :arrow_down_small: pour déployer et voir toutes les applications.
 2. Rechercher les mises à jours.
 3. Cliquer sur `Tout mettre à jour`.
@@ -57,7 +54,6 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 > [!NOTE]
 > La `Suite Office` n'est pas encore disponible.
-&nbsp;
 </details>
 
 -----------------
