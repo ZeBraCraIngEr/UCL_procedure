@@ -31,7 +31,7 @@ Il est possible de télécharger le programme directement via ce lien-ci[^2].
 Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 <details>
-<summary>Machine Saint-Louis</summary>
+<summary>**Machine Saint-Louis**</summary>
 
 1. Cliquer sur la flèche pour déployer et voir toutes les applications.
 2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
@@ -46,7 +46,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 </details>
 
 <details>
-<summary>Machine UCLouvain</summary>
+<summary>**Machine UCLouvain**</summary>
 
 1. Cliquer sur la flèche pour déployer et voir toutes les applications.
 2. Rechercher les mises à jours.
