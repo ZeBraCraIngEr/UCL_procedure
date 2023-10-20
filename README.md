@@ -67,7 +67,7 @@ Gestion de la machine, sécurité et cryptage des données.
    ```
    Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
    ```
-2. Lancer le programme `Portail d'entreprise`.
+2. Lancer l'application `Portail d'entreprise`.
 3. Connection de l'utilisateur avec les identifiants UCLouvain :bust_in_silhouette:.
 4. Commencer la configuration de l'accès à L'UCLouvain.
 5. Continuer.
@@ -92,7 +92,7 @@ Gestion de la machine, sécurité et cryptage des données.
    ```
    Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
    ```
-14. Quitter l'application.
+14. Quitter l'application `Portail d'entreprise`.
 
 > **Optionnel**
 > Dans le cas où l'État de la machine n'est pas `Conforme`:
@@ -134,7 +134,7 @@ Gestion de la machine, sécurité et cryptage des données.
    ```
    Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
    ```
-11. Quitter l'application.
+11. Quitter l'application `Portail d'entreprise`.
 
 > [!NOTE]
 > La vérification du status peut prendre jusqu'à 10 minutes :hourglass_flowing_sand:.
