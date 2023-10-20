@@ -30,7 +30,8 @@ Il est possible de télécharger le programme directement via ce lien-ci[^2].
 ### Etape 2: Microsoft AutoUpdate
 Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
-#### Machine Saint-Louis
+<details>
+<summary>#### Machine Saint-Louis</summary>
 
 1. Cliquer sur la flèche pour déployer et voir toutes les applications.
 2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
@@ -42,7 +43,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 > [!NOTE]
 > La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
-
+</details>
 
 #### Machine UCLouvain
 1. Cliquer sur la flèche pour déployer et voir toutes les applications.
