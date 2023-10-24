@@ -150,28 +150,22 @@ Gestion de la machine, sécurité, cryptage des données et installation de la s
 ### Etape 4: Centre de gestion des logiciels
 Permettra d'accéder à toutes les applications mises à disposition par l'UCLouvain via l'onglet `Logiciel`.
 
-<details>
-<summary>Machine Saint-Louis</summary>
 
-- [ ] TODO
-</details>
-
-<details>
-<summary>Machine UCLouvain</summary>
+> [!WARNING]
+> Avant de procéder, redémarrer l'ordinateur.
    
 1. Lancer l'application `Centre de gestion des logiciels`.
 2. Vérification des mises à jour automatique des logiciels.
 3. Cliquer sur `Tout mettre à jour`.
 4. Quitter l'application`Centre de gestion des logiciels`.
-</details>
-
 
 -----------------
 ### Etape 5: Inscrire la machine pour l'UCLouvain
 
 1. Lancer `Munki UCLouvain From`.
-2. Entrer le libellé de l'étiquette de la manière suivante:
-   ```latex
+2. Entrer les identifiants machine :computer:.
+3. Entrer le libellé de l'étiquette se trouvant sur la machine de la manière suivante:
+   ```
    ABXX-XXX
    ```
    où X sont des chiffres.
@@ -181,8 +175,7 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
    
 3. Entrer l'email utilisateur UCLouvain :bust_in_silhouette:.
 4. Sélectionner le secteur `SIAB`.
-5. Valider avec les identifiants machine :computer:.
-6. Cliquer sur `OK`.
+5. Cliquer sur `OK`.
 
 > [!NOTE]
 > :hourglass_flowing_sand: Cela devrait prendre moins d'une minute.
