@@ -81,13 +81,13 @@ Gestion de la machine, sécurité et cryptage des données.
    4. Fermer la fenêtre de `Réglages système`.
 7. Attendre les vérifications des paramètres système.
 
-> [!IMPORTANT]
+> [!WARNING]
 > Il est possible qu'il faille relancer la procédure une seconde fois. Pas de panique, ça ne devrait pas prendre autant de temps.
 
 > [!NOTE]
 > :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
 
-8.Terminer
+8.Terminer.
 9. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
 10. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
    ```
