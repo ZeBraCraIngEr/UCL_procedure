@@ -174,7 +174,13 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
    AB23-XXX
    ```
    où X est un chiffre.
+3. Entrer l'email utilisateur UCLouvain :bust_in_silhouette:.
+4. Sélectionner le secteur.
+5. Valider avec les identifiants machine :computer:.
 
+
+> [!WARNING]
+> Pour l'étiquette, remarquez l'utilisation du "-" et non du ".".
 
 -----------------
 ### Etape 6: Finalisation
