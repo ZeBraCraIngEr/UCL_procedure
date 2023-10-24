@@ -82,7 +82,7 @@ Gestion de la machine, sécurité et cryptage des données.
 7. Attendre les vérifications des paramètres système.
 
 > [!NOTE]
-> > :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
+> :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
 > Il est possible qu'il faille relancer la procédure une seconde fois. Pas de panique, ça ne devrait pas prendre autant de temps.
 
 8.Terminer
@@ -109,6 +109,8 @@ Gestion de la machine, sécurité et cryptage des données.
 >    1. Cliquer sur les 3 petits points.
 >    2. Vérifier l'état.
 > 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
+
+</details>
 
 <details>
 <summary>Machine UCLouvain</summary>
