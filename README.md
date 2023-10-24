@@ -78,13 +78,19 @@ Gestion de la machine, sécurité et cryptage des données.
    2. Double cliquer sur `Management Profile`.
    3. Installer en renseignant les identifiants machine.
    4. Fermer la fenêtre de `Réglages système`.
-7.Terminer
-8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
-9. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
+7. Attendre les vérifications des paramètres système.
+
+> [!NOTE]
+> > :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
+> Il est possible qu'il faille relancer la procédure une seconde fois. Pas de panique, ça ne devrait pas prendre autant de temps.
+
+8.Terminer
+9. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
+10. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
    ```
    Réglage Système > Touch ID et mot de passe > Modifier...
    ```
-10. Activer le chiffrement de l'appareil en suivant:
+11. Activer le chiffrement de l'appareil en suivant:
    ```
    Réglage Système > Confidentialité et sécurité > FileVault > Activer...
    ```
@@ -102,13 +108,6 @@ Gestion de la machine, sécurité et cryptage des données.
 >    1. Cliquer sur les 3 petits points.
 >    2. Vérifier l'état.
 > 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
-
-> [!NOTE]
-> Il est possible qu'il faille vérifier plusieurs fois l'État. Dans le cas d'une nouvelle vérification, celui-ci prend un peu de temps avant de changer.
-
-> [!NOTE]
-> :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
-</details>
 
 <details>
 <summary>Machine UCLouvain</summary>
