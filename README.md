@@ -16,9 +16,6 @@ Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain
 ### Etape 1: récupérer et installer le programme d'installation
 Télécharger le programme directement via [ce lien-ci][pkginstaller].
 
-> [!WARNING]
-> **Pour les machines `Saint-Louis`** Il est impératif de désinstaller le `Centre de gestion de logiciels` et de redémarrer l'ordinateur avant de procéder plus loin.
-
 **Installation :**
 1. Accepter la licence.
 2. Cliquer sur `Installer`.
