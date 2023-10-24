@@ -35,7 +35,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 <summary>Machine Saint-Louis</summary>
 
 1. Cliquer sur la flèche :arrow_down_small: pour déployer et voir toutes les applications.
-2. Vérification des mises à jour des programmes de la `Suite Office`, de `Microsoft AutoUpdate` et du `Portail d'entreprise`.
+2. Vérification des mises à jour des programmes de la Suite Office, de Microsoft AutoUpdate et du Portail d'entreprise.
 3. Cliquer sur `Tout mettre à jour`.
 4. Fermer `Microsoft AutoUpdate`.
 
@@ -44,7 +44,6 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 > [!NOTE]
 > :hourglass_flowing_sand: La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
-
 </details>
 
 <details>
@@ -56,12 +55,12 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 4. Fermer `Microsoft AutoUpdate`.
 
 > [!NOTE]
-> La `Suite Office` n'est pas encore disponible.
+> La `Suite Office` n'est pas encore disponible et s'installera dans l'étape suivante.
 </details>
 
 -----------------
 ### Etape 3: Portail d'entreprise
-Gestion de la machine, sécurité et cryptage des données.
+Gestion de la machine, sécurité, cryptage des données et installation de la suite office.
 
 <details>
 <summary>Machine Saint-Louis</summary>
@@ -88,7 +87,7 @@ Gestion de la machine, sécurité et cryptage des données.
 > [!NOTE]
 > :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
 
-8.Terminer.
+8. Terminer.
 9. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
 10. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
    ```
@@ -105,13 +104,6 @@ Gestion de la machine, sécurité et cryptage des données.
    Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
    ```
 14. Quitter l'application `Portail d'entreprise`.
-
-> **Optionnel**
-> Dans le cas où l'État de la machine n'est pas `Conforme`:
-> 1. Vérifier l'État (alternativement `⌥⌘S`).
->    1. Cliquer sur les 3 petits points.
->    2. Vérifier l'état.
-> 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
 
 </details>
 
@@ -146,6 +138,13 @@ Gestion de la machine, sécurité et cryptage des données.
 > [!NOTE]
 > :hourglass_flowing_sand: La vérification du status peut prendre jusqu'à 10 minutes.
 </details>
+
+> **Optionnel**
+> Dans le cas où l'État de la machine n'est pas `Conforme`:
+> 1. Vérifier l'État (alternativement `⌥⌘S`).
+>    1. Cliquer sur les 3 petits points.
+>    2. Vérifier l'état.
+> 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
 
 -----------------
 ### Etape 4: Centre de gestion des logiciels
