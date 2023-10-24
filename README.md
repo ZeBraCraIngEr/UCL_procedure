@@ -177,6 +177,7 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 3. Entrer l'email utilisateur UCLouvain :bust_in_silhouette:.
 4. Sélectionner le secteur.
 5. Valider avec les identifiants machine :computer:.
+6. Cliquer sur `OK`.
 
 
 > [!WARNING]
@@ -186,11 +187,7 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 ### Etape 6: Finalisation
 Félicitations, c'est la fin de la procédure !! :clap::partying_face::tada:
 &nbsp;
-[^1]: 
-      | Version | 1.0.0                                      |
-      |---------|--------------------------------------------|
-      | Date    | 20/10/2023                                 |
-      | Author  | Cyril Bousmar (cyril.bousmar@uclouvain.be) |
+[^1]: Version 1.0.0 - 20/10/2023 - Cyril Bousmar
 
 [//]:#
 [pkginstaller]: <https://go.microsoft.com/fwlink/?linkid=853070>
