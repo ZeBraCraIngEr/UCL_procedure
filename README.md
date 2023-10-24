@@ -180,7 +180,7 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 > Pour l'étiquette, remarquez l'utilisation du "-" et non du ".".
    
 3. Entrer l'email utilisateur UCLouvain :bust_in_silhouette:.
-4. Sélectionner le secteur.
+4. Sélectionner le secteur `SIAB`.
 5. Valider avec les identifiants machine :computer:.
 6. Cliquer sur `OK`.
 
