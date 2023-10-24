@@ -72,13 +72,14 @@ Gestion de la machine, sécurité et cryptage des données.
    ```
 2. Lancer l'application `Portail d'entreprise`.
 3. Connection de l'utilisateur avec les identifiants UCLouvain :bust_in_silhouette:.
-4. Commencer la configuration de l'accès à L'UCLouvain.
-5. Continuer.
+4. Cliquer sur `commencer` la configuration de l'accès à L'UCLouvain.
+5. Cliquer sur `Continuer`.
 6. Cliquer sur `Télécharger le profil`.
    1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
    2. Double cliquer sur `Management Profile`.
-   3. Installer en renseignant les identifiants machine.
-   4. Fermer la fenêtre de `Réglages système`.
+   3. Cliquer sur `Installer`.
+   4. Utiliser les identifiants machine :computer:.
+   5. Fermer la fenêtre de `Réglages système`.
 7. Attendre les vérifications des paramètres système.
 
 > [!WARNING]
