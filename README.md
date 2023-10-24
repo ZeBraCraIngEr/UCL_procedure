@@ -44,6 +44,7 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 > [!NOTE]
 > :hourglass_flowing_sand: La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
+
 </details>
 
 <details>
