@@ -169,6 +169,11 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 ### Etape 5: Inscrire la machine pour l'UCLouvain
 
 1. Lancer `Munki UCLouvain From`.
+2. Entrer le libellé de l'étiquette de la manière suivante:
+   ```latex
+   AB23-XXX
+   ```
+   où X est un chiffre.
 
 
 -----------------
