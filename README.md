@@ -5,7 +5,7 @@
 Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain. Elle se fait entièrement dans la session utilisateur.
 
 > [!NOTE]
-> :hourglass_flowing_sand: Temps estimé pour l'ensemble de la procédure: 20 minutes. Nous recommandons de vous préparer un petit café :coffee: ou thé :tea:.
+> :hourglass_flowing_sand: Temps estimé pour l'ensemble de la procédure: 40 minutes. Nous recommandons de vous préparer un petit café :coffee: ou thé :tea:.
 
 > [!WARNING]
 > Ce follow through est **uniquement destiné** aux membres du personnel de l'[UCLouvain][uclouvain] possèdant un Macbook.
