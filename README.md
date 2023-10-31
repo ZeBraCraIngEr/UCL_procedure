@@ -2,7 +2,11 @@
 
 ![UCLouvain logo](https://cdn.uclouvain.be/groups/cms-editors-arec/charte-graphique-uclouvain/UCLouvain_Logo_Pos_CMJN.png?itok=0Vz8FOqj)
 
-Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain. Elle se fait entièrement dans la session utilisateur.
+Cette procédure permet de passer une machine depuis l’environnement de Saint-Louis vers celui de l’UCLouvain.
+
+Elle doit être effectuée dans votre session d’utilisateur.
+
+Veuillez-suivre la procédure étape par étape. Dans le cas où vous rencontreriez un problème, cela permettra de noter l’endroit précis où le problème est survenu, et permettra une résolution plus efficace.
 
 > [!NOTE]
 > :hourglass_flowing_sand: Temps estimé pour l'ensemble de la procédure: 40 minutes. Nous recommandons de vous préparer un petit café :coffee: ou thé :tea:.
@@ -14,6 +18,10 @@ Procédure pour passer les machines du site Saint-Louis Bruxelles sous UCLouvain
 
 -----------------
 ### Etape 1: récupérer et installer le programme d'installation
+
+> [!NOTE]
+> :hourglass_flowing_sand: L'installation devrait prendre **moins d'une minute**.
+
 Télécharger le programme directement via [ce lien-ci][pkginstaller].
 
 **Installation :**
@@ -24,11 +32,12 @@ Télécharger le programme directement via [ce lien-ci][pkginstaller].
 5. Cliquer sur `Fermer`.
 6. Supprimer l'installeur en cliquant `Placer dans la corbeille`.
 
-> [!NOTE]
-> :hourglass_flowing_sand: L'installation devrait prendre moins d'une minute.
-
 -----------------
 ### Etape 2: Microsoft AutoUpdate
+
+> [!NOTE]
+> :hourglass_flowing_sand: Devrait prendre une minute. Dans le cas où la Suite Office est déjà installée, l’étape prendre un peu plus de temps.
+
 Se lance directement après l'installation du portail. Appuyer sur `OK`.
 
 1. Cliquer sur la flèche :arrow_down_small: pour déployer et voir toutes les applications.
@@ -39,45 +48,42 @@ Se lance directement après l'installation du portail. Appuyer sur `OK`.
 > [!IMPORTANT]
 > Il est possible que certains liens/icones du `Dock` vers les applications de la `Suite Office` ne soient plus cliquables. Il faut les supprimer du `Dock` et les replacer.
 
-> [!NOTE]
-> :hourglass_flowing_sand: La mise à jour prend environ deux minutes pour l'entièreté de la `Suite Office`.
-
 -----------------
 ### Etape 3: Portail d'entreprise
 Gestion de la machine, sécurité, cryptage des données et installation de la suite office.
 
-<details>
-<summary>Machine Saint-Louis</summary>
+> [!NOTE]
+> :hourglass_flowing_sand: En fonction des cas, cette étape prendra entre **10 et 20 minutes**.
 
 1. Désactiver le `FileVault` en suivant:
    ```
    Réglage Système > Confidentialité et sécurité > FileVault > Désactiver...
    ```
 2. Lancer l'application `Portail d'entreprise`.
-3. Connection de l'utilisateur avec les identifiants UCLouvain :bust_in_silhouette:.
-4. Cliquer sur `commencer` la configuration de l'accès à L'UCLouvain.
-5. Cliquer sur `Continuer`.
-6. Cliquer sur `Télécharger le profil`.
+
+> [!WARNING]
+> Il est possible qu'il faille se connecter avec les identifiants UCLouvain :bust_in_silhouette:.
+   
+3. Cliquer sur `Commencer` la configuration de l'accès à L'UCLouvain.
+4. Cliquer sur `Continuer`.
+5. Cliquer sur `Télécharger le profil`.
    1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
    2. Double cliquer sur `Management Profile`.
    3. Cliquer sur `Installer`.
    4. Utiliser les identifiants machine :computer:.
    5. Fermer la fenêtre de `Réglages système`.
-7. Attendre les vérifications des paramètres système.
+6. Attendre les vérifications des paramètres système.
 
 > [!WARNING]
 > Il est possible qu'il faille relancer la procédure une seconde fois. Pas de panique, ça ne devrait pas prendre autant de temps.
 
-> [!NOTE]
-> :hourglass_flowing_sand: Intstallation du profil de management peut prendre jusqu'à 10 minutes. De même que la vérification de l'État.
-
-8. Terminer.
-9. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
-10. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
+7. Cliquer sur `Terminer`.
+8. Cliquer sur `En savoir plus` pour vérifier que seul le chiffrement de l'appareil soit demandé, puis `fermer`.
+9. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain) en suivant:
    ```
    Réglage Système > Touch ID et mot de passe > Modifier...
    ```
-11. Activer le chiffrement de l'appareil en suivant:
+10. Activer le chiffrement de l'appareil en suivant:
    ```
    Réglage Système > Confidentialité et sécurité > FileVault > Activer...
    ```
@@ -88,55 +94,14 @@ Gestion de la machine, sécurité, cryptage des données et installation de la s
    Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
    ```
 14. Quitter l'application `Portail d'entreprise`.
-
-</details>
-
-<details>
-<summary>Machine UCLouvain</summary>
-   
-1. Lancer l'application `Portail d'entreprise`.
-2. Cliquer sur `Commencer`pour configurer l'accès de l'UCLouvain.
-3. Continuer.
-4. Cliquer sur `Télécharger le profil`.
-   1. Cliquer sur la fenêtre de `Réglages système` qui s'est ouverte.
-   2. Double cliquer sur `Management Profile`.
-   3. Installer en renseignant les identifiants machine.
-   4. Fermer la fenêtre de `Réglages système`.
-5. Terminer.
-6. Modifier le mot de passe machine :computer: (Possibilité de reprendre le même pour autant qu'il est validé par les exigences de l'UCLouvain).
-   ```
-   Réglage Système > Touch ID et mot de passe > Modifier...
-   ```
-7. Activer le chiffrement de l'appareil.
-   ```
-   Réglage Système > Confidentialité et sécurité > FileVault > Activer...
-   ```
-8. Cliquer sur continuer. La création du FileVault se lance.
-9. Sur `Portail d'entreprise`, cliquer sur `En savoir plus`, puis `Réessayer`. La vérification de l'État se lance.
-10. Désactiver la collecte des données de Microsoft:
-   ```
-   Portail d'entreprise > Réglages... > Décocher "Authorisez Microsoft à collecter des données d'utilisation.".
-   ```
-11. Quitter l'application `Portail d'entreprise`.
-
-> [!NOTE]
-> :hourglass_flowing_sand: La vérification du status peut prendre jusqu'à 10 minutes.
-</details>
-
-> **Optionnel**
-> Dans le cas où l'État de la machine n'est pas `Conforme`:
-> 1. Vérifier l'État (alternativement `⌥⌘S`).
->    1. Cliquer sur les 3 petits points.
->    2. Vérifier l'état.
-> 2. Cliquer sur `voir plus` pour savoir quelle étape suivre pour changer l'État.
+15. Redémarrer la machine.
 
 -----------------
 ### Etape 4: Centre de gestion des logiciels
 Permettra d'accéder à toutes les applications mises à disposition par l'UCLouvain via l'onglet `Logiciel`.
 
-
-> [!WARNING]
-> Avant de procéder, redémarrer l'ordinateur.
+> [!NOTE]
+> :hourglass_flowing_sand: Cette étape ne devrait prendre que **5 minutes**.
    
 1. Lancer l'application `Centre de gestion des logiciels`.
 2. Vérification des mises à jour automatique des logiciels.
@@ -145,6 +110,9 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
 
 -----------------
 ### Etape 5: Inscrire la machine pour l'UCLouvain
+
+> [!NOTE]
+> :hourglass_flowing_sand: Cela devrait prendre **moins d'une minute**.
 
 1. Lancer `Munki UCLouvain From`.
 2. Entrer les identifiants machine :computer:.
@@ -155,18 +123,15 @@ Permettra d'accéder à toutes les applications mises à disposition par l'UCLou
    où X sont des chiffres.
 
 > [!WARNING]
-> Pour l'étiquette, remarquez l'utilisation du "-" et non du ".".
+> Remarquez l'utilisation du signe `-` et non du signe `.`
    
 3. Entrer l'email utilisateur UCLouvain :bust_in_silhouette:.
 4. Sélectionner le secteur `SIAB`.
 5. Cliquer sur `OK`.
 
-> [!NOTE]
-> :hourglass_flowing_sand: Cela devrait prendre moins d'une minute.
-
 -----------------
 ### Etape 6: Finalisation
-Félicitations, c'est la fin de la procédure !! :clap::partying_face::tada:
+Félicitations, c'est la fin de la procédure !! :clap: :partying_face: :tada:
 &nbsp;
 [^1]: Version 1.0.0 - 20/10/2023 - Cyril Bousmar
 
